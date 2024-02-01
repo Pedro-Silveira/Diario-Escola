@@ -1,0 +1,61 @@
+@font-face {
+    font-family: Custom;
+    src: url(../fonts/GothamRoundedMedium.otf)
+  }
+
+.nav-link{
+    color:#fff !important;
+    transition-duration: 0.25s;
+    
+}
+
+.nav-link:hover{
+    color: #3C3C3C !important;
+    transition-duration: 0.25s;
+}
+
+.navbar-dark{
+    background-color: #1CD9DF;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    font-family: Custom;
+}
+
+.footer{
+    background-color: #3C3C3C;
+    color: #fff;
+    font-family: Custom;
+    font-size: 0.75em;
+}
+
+.footer a{
+    color: #fff;
+    text-decoration: none;
+    transition-duration: 0.25s;
+}
+
+.footer a:hover{
+    color: #1CD9DF;
+    transition-duration: 0.25s;
+}
+
+#logo{
+    transition-duration: 0.5s;
+}
+
+#logo:hover{
+    transform: scale(1.15);
+    transition-duration: 0.5s;
+}
+
+body{
+    background-color: #F7F7F8;
+}
+
+main{
+    height: 100%;
+}
+
+h1, h3, h6{
+    font-family: Custom;
+}
