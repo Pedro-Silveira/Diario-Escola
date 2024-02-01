@@ -12,7 +12,7 @@ O sistema integra PHP, Javascript e SQL em um mesmo código-fonte, realizando as
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou o [`Xampp`](https://www.apachefriends.org/pt_br/index.html);
-* Você importou o banco de dados [`diarioescola.sql`] para o phpMyAdmin.
+* Você importou o banco de dados `diarioescola.sql` para o phpMyAdmin.
 
 ## 🛠️ Ferramentas
 
